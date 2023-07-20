@@ -1,0 +1,6 @@
+module.exports = {
+  TICK_RATE: 1000,
+  WATER_EMPTY: 0,
+  MOISTURE_LOW: 300,
+  MOISTURE_HIGH: 1000,
+};
